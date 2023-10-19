@@ -1,0 +1,21 @@
+System Info:
+Windows 11 10.0
+Processor: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Memory: null bytes
+
+Threads: 1
+Final Counter Value: 0
+Execution Time: 23 milliseconds
+
+Threads: 2
+Final Counter Value: 0
+Execution Time: 31 milliseconds
+
+Threads: 4
+Final Counter Value: 0
+Execution Time: 22 milliseconds
+
+Threads: 8
+Final Counter Value: 0
+Execution Time: 43 milliseconds
+
